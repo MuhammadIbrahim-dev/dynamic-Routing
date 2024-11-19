@@ -50,7 +50,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
 ## Analyzing code to dynamic routing 
-![blog page](Blog_jsx.png)
+![blog page](<Blog_jsx (1).png>)
 ![blogdetails](blogdetail_jsx.png)
 ### Analyzing the Bundle Size
 

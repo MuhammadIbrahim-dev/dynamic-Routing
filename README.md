@@ -74,8 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <br/>
 (www.facebook.com/muhammadibrahimdev)
 <br/>
-(www.github.com/ibrahimdevelop)
+(www.github.com/ibrahim-develop)
 <br/>
 (www.youtube.com/ibrahim-developer)
 <br/>
-(linkedin.com/in/muhammad-ibrahim-90906027b/)
+(www.linkedin.com/in/muhammad-ibrahim-90906027b/)

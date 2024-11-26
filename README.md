@@ -3,6 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+# code to create routuing path
+![dynamic routing](https://github.com/user-attachments/assets/5d434a4c-0981-41a7-a5f2-18a6263fed18)
+
 
 In the project directory, you can run:
 
@@ -71,6 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 <br/>
 (www.facebook.com/muhammadibrahimdev)
 <br/>
